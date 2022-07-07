@@ -1,12 +1,12 @@
-### Hello, my name is Mark Fialko :raised_hand:
+### Hello, my name is Mark Fialko  :raised_hand:
 
 ## I'm a beginner Web Developer
 
-### About me :eyes:
+### About me  :eyes:
 
-* I love programming :computer:
-* I'm a student of URFU :books:
-* Always learning something new for myself :pencil2:
+* I love programming  :computer:
+* I'm a student of URFU  :books:
+* Always learning something new for myself  :pencil2:
 
 ### Languages & Tools:
 
@@ -20,4 +20,4 @@
 ### Contact me:
 
 [<img align="left" alt="Artem Kiselev | VK" width="22px" src="https://raw.githubusercontent.com/github/explore/b9118a25126aa8eb71413d5819c6c517aeb4d0bb/topics/vk/vk.png" />](https://vk.com/markfialko)
-[<img align="left" alt="Artem Kiselev | Email" width="24px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />](mailto:markfialkofialko@gmail.com)
+[<img align="left" alt="Mark Fialko | Email" width="24px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />](mailto:markfialkofialko@gmail.com)
