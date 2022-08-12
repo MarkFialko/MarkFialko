@@ -2,11 +2,11 @@
 
 ## I'm a beginner Web Developer
 
-### About me  :eyes:
+### About me 
 
-* I love programming  :computer:
-* I'm a student of URFU  :books:
-* Always learning something new for myself  :pencil2:
+* I love programming 
+* I'm a student of URFU 
+* Always learning something new for myself 
 
 ### Languages & Tools:
 
